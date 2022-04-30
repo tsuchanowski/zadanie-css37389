@@ -1,0 +1,28 @@
+body {
+    background-color: #f5f5dd;
+}
+
+.jasnoszary {
+    background-color: rgba(222, 223, 204, 0.932);
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+}
+.szary {
+    background-color: rgba(103, 104, 94, 0.932);
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+}
+.ciemnoszary {
+    background-color: rgba(63, 63, 58, 0.932);
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+}
+.czarny {
+    background-color: rgba(27, 27, 25, 0.932);
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+}
